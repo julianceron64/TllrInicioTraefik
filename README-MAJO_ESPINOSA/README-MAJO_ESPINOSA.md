@@ -10,21 +10,21 @@ Se levanta el contenedor y se comprueba que el contenedor este activo.
 
 ## 3. Acceder al dashboard de Traefik:
 Se accedió a el dashboard de traefik mediante el navegador y la URL: http://localhost:8080/dashboard/. 
-![dashboard de traefik](img/LOGS-2.png)
+![dashboard de traefik](https://github.com/julianceron64/TllrInicioTraefik/blob/main/README-MAJO_ESPINOSA/TRAEFICK%203.png?raw=true )
 
 ## 4.  Desplegar la aplicación de ejemplo
 Se levanto el servicio de prueba correctamente
-![se desplego la aplicacion de ejemplo](img/LOGS-2.png)
+![se desplego la aplicacion de ejemplo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/README-MAJO_ESPINOSA/TRAEFICK%206.png?raw=true )
 
 
 ## 5.  Probar acceso a la aplicación: 
-Se accedio en el navegador a http://whoami.localhost, y tambien se ejecuto curl http://whoami.localhost. para evidenciar el acceso a la aplicacion.
-![Comprobacion acceso a la aplicación](img/LOGS-2.png)
+Se  ejecuto curl http://whoami.localhost para evidenciar el acceso a la aplicacion.
+![Comprobacion acceso a la aplicación](https://github.com/julianceron64/TllrInicioTraefik/blob/main/README-MAJO_ESPINOSA/TRAEFICK%204.png?raw=true )
 
 
 ## 5.  Revisar routers en el dashboard:  
 Se dirijio a dashboard de Traefik a la sección HTTP Routers y se confirmar que aparece whoami.localhost
-![Se revisa routers en el dashboard](img/LOGS-2.png)
+![Se revisa routers en el dashboard](https://github.com/julianceron64/TllrInicioTraefik/blob/main/README-MAJO_ESPINOSA/TRAEFICK%205.png?raw=true )
 
 
 ## PREGUNTAS
