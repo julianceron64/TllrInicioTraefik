@@ -2,7 +2,7 @@
 
 ## 1.Verificar requisitos: 
 Se verifica que se tenga Docker y Docker-compose 
-![Verificar requisitos](img/POST.jpeg)
+![Verificar requisitos](https://github.com/julianceron64/TllrInicioTraefik/blob/main/README-MAJO_ESPINOSA/TRAEFICK%201.jpg?raw=true)
 
 ## 2. Levantar Traefik:
 Se levanta el contenedor y se comprueba que el contenedor este activo. 
