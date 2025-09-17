@@ -6,7 +6,7 @@ Se verifica que se tenga Docker y Docker-compose
 
 ## 2. Levantar Traefik:
 Se levanta el contenedor y se comprueba que el contenedor este activo. 
-![Levantar Traefik](img/LOGS-2.png)
+![Levantar Traefik](https://github.com/julianceron64/TllrInicioTraefik/blob/main/README-MAJO_ESPINOSA/TRAEFICK%202.png?raw=true)
 
 ## 3. Acceder al dashboard de Traefik:
 Se accedió a el dashboard de traefik mediante el navegador y la URL: http://localhost:8080/dashboard/. 
