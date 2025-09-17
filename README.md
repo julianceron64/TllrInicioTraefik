@@ -7,7 +7,7 @@ En las siguientes dos imagenes se puede ver que se levanto un servicio de prueba
 ![Texto alternativo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/2.jpg?raw=true)
 ![Texto alternativo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/3.jpg?raw=true)
 
-En la última imagen podemos ver la comprobación directa en el dashboard de Traefik accediendo a localhost:8080/dashboard/. Allí se observa que los entrypoints, routers y services están activos, lo que confirma que el proxy inverso está funcionando de forma correcta y detectando automáticamente los servicios configurados:
+En la última imagen podemos ver la comprobación directa en el dashboard de Traefik accediendo a localhost:8080/dashboard/. Allí se observa que los entrypoints, routers y services están activos, lo que confirma que el proxy inverso está funcionando de forma correcta:
 
 ![Texto alternativo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/4.jpg?raw=true)
 
