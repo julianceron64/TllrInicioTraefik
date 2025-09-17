@@ -1,15 +1,24 @@
-# TllrInicioTraefik
+# TllrInicioTraefik 
+# Julian Camilo Cerón Patiño - Maria Jose Espinosa Cañon
 
-En la siguiente imagen podemos ver como se levanto el contenedor de traefik para la prueba 
+
+la primer imagen muestra el estado de las versiones de docker y docker compose 
 ![Texto alternativo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/1.jpg?raw=true)
 
-En las siguientes dos imagenes se puede ver que se levanto un servicio de prueba con un whoami.yml y su correspondiente comprobación con una petición curl
-![Texto alternativo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/2.jpg?raw=true)
+En la siguiente imagen podemos ver como se levanto el contenedor de traefik para la prueba y que este se encuentra corriendo
+![Texto alternativo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/2.png?raw=true)
+
+En la siguiente imagen podemos ver la comprobación directa en el dashboard de Traefik accediendo a localhost:8080/dashboard/.
 ![Texto alternativo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/3.jpg?raw=true)
 
-En la última imagen podemos ver la comprobación directa en el dashboard de Traefik accediendo a localhost:8080/dashboard/. Allí se observa que los entrypoints, routers y services están activos, lo que confirma que el proxy inverso está funcionando de forma correcta:
-
+En las siguientes dos imagenes se puede ver que se levanto un servicio de prueba con un whoami.yml y su correspondiente comprobación con una petición curl
 ![Texto alternativo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/4.jpg?raw=true)
+![Texto alternativo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/5.jpg?raw=true)
+
+En la ultima imagen podemos observar que whoami.localhost aparece dentro de los HTTP ROUTERS del dashboard
+![Texto alternativo](https://github.com/julianceron64/TllrInicioTraefik/blob/main/6.png?raw=true)
+
+
 
 # Respuestas a las preguntas
 
